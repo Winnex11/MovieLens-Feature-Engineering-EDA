@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Winner Obayomi</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#4CAF50">Winner Obayomi</span> </h1>
 
 <p align="center">
   <b>Data Analyst • Python • SQL • Power BI</b><br>
@@ -44,7 +44,7 @@ Here are some of my best analytics projects:
 
 ---
 
-### 🔹 **Sales Analytics Dashboard**  
+###  **Sales Analytics Dashboard**  
  *Power BI • DAX • Business Insights*  
 
 - Forecasting, regional analysis  
@@ -53,7 +53,7 @@ Here are some of my best analytics projects:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages & Tools**
 
@@ -63,7 +63,7 @@ Here are some of my best analytics projects:
 
 ---
 
-## 📊 My Workflow
+##  My Workflow
 
 ✔ Data Cleaning & Wrangling  
 ✔ Exploratory Data Analysis  
@@ -74,7 +74,7 @@ Here are some of my best analytics projects:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced SQL analytics  
 - Machine Learning for recommendation systems  
 - Cloud skills (Azure / AWS beginner)
@@ -83,7 +83,7 @@ Here are some of my best analytics projects:
 
 ## 🤝 Let’s Connect
 <p>
-<a href="https://www.linkedin.com/in/YOUR-LINK-HERE" target="_blank">💼 LinkedIn</a>  
+<a href="www.linkedin.com/in/obayomi-winner-6b7240103" target="_blank">💼 LinkedIn</a>  
 </p>
 
 ---
