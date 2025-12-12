@@ -77,18 +77,18 @@ Here are some of my best analytics projects:
 ##  Currently Learning
 - Advanced SQL analytics  
 - Machine Learning for recommendation systems  
-- Cloud skills (Azure / AWS beginner)
+- Adavanced Python Analytics
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 <p>
-<a href="www.linkedin.com/in/obayomi-winner-6b7240103" target="_blank">💼 LinkedIn</a>  
+<a href="https://www.linkedin.com/in/obayomi-winner-6b7240103" target="_blank"> LinkedIn</a>  
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for stopping by! Always open to collaboration ✨</h3>
+<h3 align="center"> Thanks for stopping by! Always open to collaboration </h3>
 
 
 
