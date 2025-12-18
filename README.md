@@ -76,5 +76,4 @@ The insights and engineered features from this analysis can support:
 - Build interactive dashboards to visualize recommendation insights.
 
 ## Links
-- Full written report available via portfolio site
 - Dataset source: https://grouplens.org/datasets/movielens/
